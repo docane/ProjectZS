@@ -20,7 +20,7 @@ public class TitleScript : MonoBehaviour
 
     public void StartOnClick()
     {
-        SceneManager.LoadScene("TestScene 1");
+        SceneManager.LoadScene("GameScene");
     }
 
     public void ExitOnClick()
