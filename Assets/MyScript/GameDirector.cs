@@ -40,7 +40,7 @@ public class GameDirector : MonoBehaviour
 
     public void ReplayOnClick()
     {
-        SceneManager.LoadScene("TestScene 1");
+        SceneManager.LoadScene("GameScene");
     }
 
     public void GoToTitleOnClick()
